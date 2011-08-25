@@ -1,1 +1,3 @@
-rvm 1.9.2
+# Generated with Simple_gemset 
+rvm gemset create mandraweb
+rvm gemset use mandraweb
